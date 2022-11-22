@@ -30,4 +30,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: x-Felix/rrdrest:latest
+          tags: x-felix/rrdrest:latest
